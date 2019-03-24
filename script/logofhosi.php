@@ -13,7 +13,6 @@ htmlタグを消去する
 エピソードの自動取得
 */
 
-
 $url = array(
 "第一幕 Ο?α?, ο?α?, ο?α? ――！　フィネガンズ・ウェイク"=>"https://novel.daysneo.com/works/episode/dee5d8ce8c9fb9d3be556637fca85e99.html",//一話
 "第二幕 Anathema Sit ――！　　　　失われた楽園"=>"https://novel.daysneo.com/works/episode/17a7e6fa8ec7023540eaaa23d0ba0741.html",        //二話
